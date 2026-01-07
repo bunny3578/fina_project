@@ -60,5 +60,5 @@ FastAPI 提供自動化的 Swagger UI，方便開發者測試各種 API 接口�
 存取位址：http://127.0.0.1:8000/docs
 
 <img width="1888" height="854" alt="API Swagger 截圖" src="https://github.com/user-attachments/assets/2f8fcf45-99fe-4211-bd41-f64c3784fc35" />
-
+2. GUI 運作截圖
 <img width="993" height="845" alt="GUI 運作截圖" src="https://github.com/user-attachments/assets/403e10bd-c696-4faa-b4f0-59205318de0f" />
